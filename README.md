@@ -1,13 +1,12 @@
--> Frontend
-React + Vite
+## Frontend
+-> React + Vite , 
 Tailwind CSS
-
--> Backend
-Node.js
+## Backend
+-> Node.js , 
 Express.js
 
--> Database
-PostgreSQL
+## Database
+-> PostgreSQL , 
 Prisma ORM
 
 -> Tools & Services
