@@ -33,10 +33,10 @@ cd server
 npm install
 
 ## Create a .env file inside server/:
-#PORT=3000
-#DATABASE_URL=your_postgresql_connection_string
-#OPENROUTER_API_KEY=your_openai_or_openrouter_api_key
-STRIPE_SECRET_KEY=your_stripe_secret_key
+PORT=3000
+--- DATABASE_URL=your_postgresql_connection_string
+--- #OPENROUTER_API_KEY=your_openai_or_openrouter_api_key
+--- STRIPE_SECRET_KEY=your_stripe_secret_key
 PORT=3000
 TRUSTED_ORIGIN=http://localhost:5173
 BETTER_AUTH_SECRET=DOGumRfbmM0jZo68PR6rqZd8b01TSjuf
