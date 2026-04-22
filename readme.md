@@ -60,7 +60,7 @@ VITE_BACKEND_URL=http://localhost:3000
 ## Start frontend:
 npm run dev
 
-## ############## ⭐ Support #################
+## ##############-⭐ Support-#################
 If you like this project, give it a ⭐ on GitHub!<br>
 If you have any query and issues you can contact the below email!<br>
 Email -> avnish011kumar@gmail.com
