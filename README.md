@@ -15,7 +15,7 @@ Stripe (payments)
 Postman (API testing)
 Render (deployment)
 
-AI-Website-Builder/
+## AI-Website-Builder/
 │
 ├── client/          # Frontend (React + Vite)
 ├── server/          # Backend (Node + Express)
@@ -23,19 +23,19 @@ AI-Website-Builder/
 ├── .env             # Environment variables
 └── README.md
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/AvnishKr01/AI-Website-Builder.git
 cd AI-Website-Builder
 
-2️⃣ Backend Setup
+##2️⃣ Backend Setup
 cd server
 npm install
 
--> Create a .env file inside server/:
-PORT=3000
-DATABASE_URL=your_postgresql_connection_string
-OPENROUTER_API_KEY=your_openai_or_openrouter_api_key
+## Create a .env file inside server/:
+#PORT=3000
+#DATABASE_URL=your_postgresql_connection_string
+#OPENROUTER_API_KEY=your_openai_or_openrouter_api_key
 STRIPE_SECRET_KEY=your_stripe_secret_key
 PORT=3000
 TRUSTED_ORIGIN=http://localhost:5173
