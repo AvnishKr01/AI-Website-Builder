@@ -1,15 +1,15 @@
 ## Frontend
--> React + Vite , 
+React + Vite , 
 Tailwind CSS
 ## Backend
--> Node.js , 
+ Node.js , 
 Express.js
 
 ## Database
--> PostgreSQL , 
+PostgreSQL , 
 Prisma ORM
 
--> Tools & Services
+## Tools & Services
 OpenAI / OpenRouter API
 Stripe (payments)
 Postman (API testing)
