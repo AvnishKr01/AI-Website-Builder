@@ -23,12 +23,12 @@ Render (deployment)
 ├── .env             # Environment variables<br>
 └── README.md
 
-##⚙️ Installation & Setup
-##1️⃣ Clone the Repository
+## ⚙️ Installation & Setup
+## 1️⃣ Clone the Repository
 git clone https://github.com/AvnishKr01/AI-Website-Builder.git<br>
 cd AI-Website-Builder
 
-##2️⃣ Backend Setup
+## 2️⃣ Backend Setup
 cd server<br>
 npm install
 
@@ -50,7 +50,7 @@ npx prisma migrate dev<br>
 ## Start backend server:
 npm run dev
 
-3️⃣ Frontend Setup
+## 3️⃣ Frontend Setup
 cd client<br>
 npm install<br>
 
